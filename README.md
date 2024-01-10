@@ -5,6 +5,7 @@
 Le projet de calculatrice est organisé de manière simple, avec un fichiers principaux :
 
 - `main.py` : Contient le script principal où l'utilisateur interagit avec la calculatrice , Définit la classe Calculatrice avec les différentes opérations mathématiques.
+- `README.md` : La documentation du projet.
 
 ## Choix Techniques
 
